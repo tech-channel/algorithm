@@ -1,4 +1,4 @@
-package dfs;
+package dfs.basic;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

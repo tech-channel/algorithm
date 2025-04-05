@@ -1,4 +1,4 @@
-package bst;
+package bst.basic;
 
 public class NodeBST {
     public int data;

@@ -7,6 +7,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/* 알고리즘 문제를 회사 개발처럼 하게 되었을 경우 시간이 너무 오래 걸림.. */
 public class PersonalInformation {
     public int[] solution(String today, String[] terms, String[] privacies) {
         List<Integer> ans = new ArrayList<>();
@@ -116,6 +117,7 @@ public class PersonalInformation {
     private String searchTerms(Map<String, String> convertTerms, String type) {
         return convertTerms.get(type);
     }
+
 
     public int[] solution_2(String today, String[] terms, String[] privacies) {
         List<Integer> answer = new ArrayList<>();

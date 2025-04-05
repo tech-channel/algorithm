@@ -1,4 +1,4 @@
-package bfs;
+package bfs.basic;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

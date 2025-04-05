@@ -1,4 +1,4 @@
-package dfs;
+package dfs.basic;
 
 public class MainDFS {
     public static void main(String[] args) {
