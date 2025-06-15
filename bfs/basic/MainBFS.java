@@ -1,4 +1,4 @@
-package bfs;
+package bfs.basic;
 
 public class MainBFS {
     public static void main(String[] args) {
